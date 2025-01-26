@@ -1,0 +1,4 @@
+numpy==1.24.3
+qiskit==0.43.0
+qiskit-aer==0.12.0
+streamlit==1.28.2
